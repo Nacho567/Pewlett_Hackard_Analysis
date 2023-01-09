@@ -21,8 +21,12 @@ In the next few years, Pewlett Hackard will need to hire and train for 72,458 po
 
 There are a couple things that Pewlett Hackard could implement to ease their next few years. The first is to loosen the age requirement for mentors. Even allowing six more months on the age criteria allows almost 11,000 more retiring employees to be mentors. 
 
+Another option is PH could offer incentives, either for becoming a mentor or for delaying retirement. Obviously, this could add a large sum to the operating budget and would need to be weighed against what it will cost to train and hire, and how much might be lost if too many employees retire without being replaced.
+
+**Possible mentors**
+
 ![Possible retiring mentors](https://github.com/Nacho567/Pewlett_Hackard_Analysis/blob/937b67a23aadcd73c94ffe54015ddff1405e6c0c/Data/possible_mentors.png)
 
-Another option is PH could offer incentives, either for becoming a mentor or for delaying retirement. Obviously, this could add a large sum to the operating budget and would need to be weighed against what it will cost to train and hire, and how much might be lost if too many employees retire without being replaced.
+**Total Employees**
 
 ![Current total employees, 240,124](https://github.com/Nacho567/Pewlett_Hackard_Analysis/blob/aa7fed14bb7dcabd831e57fcb4a015c333ed3b4f/Data/current_emp.png)
