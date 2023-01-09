@@ -5,12 +5,12 @@ __pycache__/
 
 #files not needed for challenge
 QDB
-titles
-employees
-salaries
-dept_emp
-dept_manager
-departments
+titles.csv
+employees.csv
+salaries.csv
+dept_emp.csv
+dept_manager.csv
+departments.csv
 
 # C extensions
 *.so
