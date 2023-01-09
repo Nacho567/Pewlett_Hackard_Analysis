@@ -17,4 +17,4 @@ Our job was to analyze employee data from Pewlett Hackard and find out how many 
 
 ## **Summary**
 
-In the next few years, Pewlett Hackard will need to 
+In the next few years, Pewlett Hackard will need to hire and train for 72,458 positions, which represents a large percentage of their workforce. Even On top of that, only 1,549 of those retirees are eligible to be mentors to new hires. That represents barely over 2% of that group.
